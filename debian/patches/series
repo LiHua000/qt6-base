@@ -1,4 +1,5 @@
 # Needs to be fixed upstream.
+add-ivs-variation-selector-support.patch
 Add-SH-detection.patch
 
 # Pushed to gerrit
@@ -43,3 +44,4 @@ Check-exactly-the-first-bit-of-XdndStatus-flags-in-QXcbDrag.patch
 fix-xcb-clear-stale-internal-state-when-setting-up-slave-devices.patch
 fix-xcb-Handle-DEVICE_ENABLED-in-XI2-hierarchy-events.patch
 fix-QLabel-Reset-link-hover-state.patch
+fix-ivs-harfbuzz-run-boundaries.patch
